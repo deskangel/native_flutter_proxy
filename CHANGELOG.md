@@ -1,3 +1,8 @@
+## 0.1.15
+
+* Updated kotlin version。
+* Updated flutter version。
+
 ## 0.1.14
 
 * fix MissingPluginException on Android。
